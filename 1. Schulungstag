@@ -1,0 +1,31 @@
+today we learned: 
+
+how to: 
+ - create and use a repository
+ - Start and manage a new branch
+ - Make changes to a file and push them to GitHub as commits
+ - Open and merge a pull request
+ 
+ What is GitHub?
+ 
+ is a code hosting platform for version control and collaboration. Work on projects from anywhere with anywhom.
+ 
+ 1. Create a new Repository 
+ 
+  - usually used to organize a single project. 
+
+  2. Create a Branch
+  
+  - Branching is the way to work on different versions of a repository at one time. 
+  
+  Default --> 1 Branch --> main --> definitive branch
+  new branch --> feature --> 
+  
+  
+  To create a new branch
+Go to your new repository hello-world.
+Click the drop down at the top of the file list that says branch: main.
+Type a branch name, readme-edits, into the new branch text box.
+Select the blue Create branch box or hit “Enter” on your keyboard.
+
+Java refresh from the stuff we learned in the Orientation 
